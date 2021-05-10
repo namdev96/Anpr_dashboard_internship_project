@@ -1,0 +1,51 @@
+
+Table{
+   
+    color:#6B6E71;
+}
+.table-striped-rows tr:nth-child(2n) td {
+    background-color: #fbfbfb;
+}
+.table-striped-rows thead {
+    background-color: #f1f1f1;
+}
+.table-striped-rows th:hover{ 
+    background-color:#E8EDEC;
+}
+#components-layout-demo-custom-trigger .trigger {
+    font-size: 18px;
+    line-height: 64px;
+    padding: 0 24px;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  
+  #components-layout-demo-custom-trigger .trigger:hover {
+    color: #1890ff;
+  }
+  
+  #components-layout-demo-custom-trigger .logo {
+    height: 32px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+  }
+  
+  .site-layout .site-layout-background {
+    background: #fff;
+  }
+  #components-layout-demo-responsive .logo {
+    height: 32px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+  }
+  
+  .site-layout-sub-header-background {
+    background: #fff;
+  }
+  
+  .site-layout-background {
+    background: #fff;
+  }
+  .table > thead > tr > th{
+    background-color: #EEEE00;
+    }
